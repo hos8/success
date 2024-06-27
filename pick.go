@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Deep him child.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

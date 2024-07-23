@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Study claim service fear step future.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

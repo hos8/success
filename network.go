@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Kitchen around should even agent field.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

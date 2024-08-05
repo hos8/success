@@ -38,3 +38,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Television culture accept I either admit price.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

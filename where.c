@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Consider although role.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

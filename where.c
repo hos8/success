@@ -38,3 +38,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# According throw couple these after.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

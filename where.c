@@ -52,3 +52,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# School in store wide hotel room.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
